@@ -1,5 +1,11 @@
-div {
+.dept-name {
     background-color: crimson;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.cmt-books {
+    background-color: aqua;
     color: #ffffff;
     font-weight: bold;
 }
